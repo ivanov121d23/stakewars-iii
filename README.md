@@ -1,3 +1,4 @@
+#TEST
 Welcome to Stake Wars: Episode III A New Validator
 
 Stake Wars is a program that helps the community become familiar with what it means to be a NEAR validator, and gives the community an early chance to access the chunk-only producer.
